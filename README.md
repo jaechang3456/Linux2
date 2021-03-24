@@ -97,3 +97,4 @@
 - 디렉토리
   - 메모리의 저장 곤간에 대한 이름 공간(폴더)
   - 물리적으로 저장된 데이터를 논리적(개념적)이름과 연결한 것
+![image](https://user-images.githubusercontent.com/78472987/112283816-e13c3080-8ccb-11eb-99a6-f24fa5bce31b.png)
